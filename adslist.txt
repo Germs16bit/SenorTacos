@@ -24,3 +24,5 @@ data.mistat.rus.xiaomi.com
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
 samsung-com.112.2o7.net
+tools.mouseflow.com
+appmetrica.yandex.ru
