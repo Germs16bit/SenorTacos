@@ -44,7 +44,8 @@ ck.ads.oppomobile.com
 grs.hicloud.com
 advertising.apple.com
 api-adservices.apple.com
-
+cdn.mouseflow.com
+o2.mouseflow.com
 
 
 
