@@ -46,6 +46,32 @@ advertising.apple.com
 api-adservices.apple.com
 cdn.mouseflow.com
 o2.mouseflow.com
-
+mediavisor.doubleclick.net
+afs.googlesyndication.com
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+fwtracks.freshmarketer.com
+browser.sentry-cdn.com
+app.getsentry.com
+events.reddit.com
+events.redditmedia.com
+analytics-sg.tiktok.com
+log.byteoversea.com
+widgets.pinterest.com
+adtech.yahooinc.com
+extmaps-api.yandex.net
+metrika.yandex.ru
+offerwall.yandex.net
+ck.ads.oppomobile.com
+click.oneplus.cn
+books-analytics-events.apple.com
+weather-analytics-events.apple.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+logservice.hicloud.com
+logservice1.hicloud.com
+analytics-api.samsunghealthcn.com
 
 
